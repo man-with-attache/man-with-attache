@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/man-with-attache/man-with-attache.git",
   "author": "robertgraleigh@manwithattache.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp4": "^4.0.1"
+  }
 }
