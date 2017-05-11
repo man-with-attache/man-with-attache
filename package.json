@@ -1,0 +1,9 @@
+{
+  "name": "man-with-attache",
+  "version": "1.0.0",
+  "description": "Static site for Man With Attache, LLC.",
+  "main": "index.js",
+  "repository": "https://github.com/man-with-attache/man-with-attache.git",
+  "author": "robertgraleigh@manwithattache.com",
+  "license": "MIT"
+}
