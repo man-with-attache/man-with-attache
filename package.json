@@ -7,6 +7,9 @@
   "author": "robertgraleigh@manwithattache.com",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-v4-dev": "^4.0.0-alpha.5",
+    "font-awesome": "^4.7.0",
     "gulp4": "^4.0.1"
   }
 }
